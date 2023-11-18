@@ -1,0 +1,31 @@
+{
+    "name": "PyreSwap token list",
+	"tokens": [
+        {
+            "address": "0x1B6382DBDEa11d97f24495C9A90b7c88469134a4",
+            "chainId": 250,
+            "decimals": 6,
+            "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/token/usdc.jpg",
+            "name": "Axelar Wrapped USDC",
+            "symbol": "axlUSDC"
+        },
+        {
+            "address": "0x7a6e4E3CC2ac9924605DCa4bA31d1831c84b44aE",
+            "chainId": 250,
+            "decimals": 18,
+            "logoURI": "https://ftmscan.com/token/images/2ombtoken_32.png",
+            "name": "SC 2omb",
+            "symbol": "2OMB"
+        },
+        {
+            "address": "0x14DEf7584A6c52f470Ca4F4b9671056b22f4FfDE",
+            "chainId": 250,
+            "decimals": 18,
+            "logoURI": "https://ftmscan.com/token/images/2ombtoken_32.png",
+            "name": "SC 3omb",
+            "symbol": "3OMB"
+        }
+    ]
+}
+
+
